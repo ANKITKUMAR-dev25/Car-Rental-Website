@@ -54,7 +54,7 @@ Car-Rental-Website/
 1. **Clone the repository:**
 
 ```bash
-git clone 
+git clone https://github.com/ANKITKUMAR-dev25/Car-Rental-Website.git
 cd Car-Rental-Website
 ```
 
